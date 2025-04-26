@@ -1,0 +1,7 @@
+﻿  brute_force.c
+  test_project.c
+C:\Users\kudel\OneDrive - VUT\Plocha\vba projekt\test_project.c(71,52): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'CU_TestFunc'
+C:\Users\kudel\OneDrive - VUT\Plocha\vba projekt\test_project.c(72,59): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'CU_TestFunc'
+  xor.c
+  Generating Code...
+  BruteForce.vcxproj -> C:\Users\kudel\OneDrive - VUT\Plocha\vba projekt\x64\Debug\BruteForce.exe
